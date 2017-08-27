@@ -7,7 +7,8 @@ Vue.use(VueVis);
 import App from './app.vue';
 import routes from './router.js';
 const router = new VueRouter({
-  routes
+  routes,
+  linkActiveClass:'link-actived'
 });
 
 new Vue({

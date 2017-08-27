@@ -1,7 +1,9 @@
 import vMap from './components/map/index'
+import vLine from './components/line/index'
 
 const view = {
 	vMap,
+	vLine,
 }
 
 const install = function (Vue) {
