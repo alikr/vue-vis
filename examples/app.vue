@@ -5,6 +5,7 @@
       <ul class="nav-con">
         <li class="nav--item"><router-link to="/map">map</router-link></li>
         <li class="nav--item"><router-link to="/line">line chart</router-link></li>
+        <li class="nav--item"><router-link to="/pie">pie chart</router-link></li>
       </ul>
     </nav>
     <div class="main">

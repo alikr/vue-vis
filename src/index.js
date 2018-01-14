@@ -1,9 +1,11 @@
 import vMap from './components/map/index'
 import vLine from './components/line/index'
+import vPie from './components/pie/index'
 
 const view = {
 	vMap,
 	vLine,
+	vPie,
 }
 
 const install = function (Vue) {
